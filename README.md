@@ -103,3 +103,4 @@ Deploys a Linux VM with a network interface. Optionally creates and attaches a p
 - Security Center Module:
 Configures the Azure Security Center subscription pricing.
 
+by#CheikhB
